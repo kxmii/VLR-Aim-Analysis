@@ -1,8 +1,8 @@
 # Is NA AIM real?
 
 ## Files
+- vlr.xlsx: Exel file containing raw data, histograms, and t-test.
 - vlr.py: gets data from vlr.gg and puts into an excel file
-- vlr.xlsx: contains raw data, histograms, and t-test.
 - vlrcountry.py: gets each player's country from vlr.gg and puts into a csv.
 - graphic.gif: see below
 
