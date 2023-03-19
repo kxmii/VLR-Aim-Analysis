@@ -11,6 +11,6 @@
 Graphic
 </h2>
 <p align="center">
-<img src="https://github.com/kxmii/VLR-Aim-Analysis/blob/main/visual.gif">
+<img src="https://github.com/kxmii/VLR-Aim-Analysis/blob/main/visualization.gif">
 </p>
 
