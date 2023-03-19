@@ -7,6 +7,6 @@
 - graphic.gif: see below
 
 <p align="center">
-![](https://github.com/kxmii/VLR-Aim-Analysis/blob/main/graphic.gif)
+<img src="https://github.com/kxmii/VLR-Aim-Analysis/blob/main/graphics.gif">
 </p>
 
