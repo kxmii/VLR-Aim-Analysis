@@ -1,5 +1,5 @@
 # Is NA AIM real?
-![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/graphic.gif)
+![](https://github.com/kxmii/VLR-Aim-Analysis/blob/main/graphic.gif)
 
 ## Files
 - vlr.py: gets data from vlr.gg and puts into an excel file
