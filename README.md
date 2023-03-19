@@ -6,4 +6,7 @@
 - vlrcountry.py: gets each player's country from vlr.gg and puts into a csv.
 - graphic.gif: see below
 
+<p align="center">
 ![](https://github.com/kxmii/VLR-Aim-Analysis/blob/main/graphic.gif)
+</p>
+
