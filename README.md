@@ -1,4 +1,4 @@
-# Is NA AIM real?
+# Is the term 'NA AIM' real?
 
 ## Files
 - vlr.xlsx: Exel file containing raw data, histograms, and t-test.
