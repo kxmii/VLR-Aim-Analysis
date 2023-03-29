@@ -2,6 +2,7 @@
 </h1>
 
 Using a t-test to compare the headshot accuracy of North American players to the headshot accuracy of those from the rest of the world. 
+
 Aim to determine if the phrase "NA Aim" (used to describe bad aim) is accurate.
 
 ## Files
