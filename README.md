@@ -1,7 +1,7 @@
 <h1 align="center"> Is 'NA AIM' real?
 </h1>
 
-Using a t-test to compare the headshot accuracy of North American Players at Sao Paulo to those from the rest of the world. 
+Using a t-test to compare the headshot accuracy of North American players and those from the rest of the world. 
 
 ## Files
 - vlr.xlsx: Exel file containing raw data, histograms, and t-test.
