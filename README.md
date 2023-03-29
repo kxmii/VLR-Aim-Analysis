@@ -1,7 +1,8 @@
 <h1 align="center"> Is 'NA AIM' real?
 </h1>
 
-Using a t-test to compare the headshot accuracy of North American players and those from the rest of the world to determine if the phrase "NA Aim" (used to describe bad aim) is accurate.
+Using a t-test to compare the headshot accuracy of North American players to the headshot accuracy of those from the rest of the world. 
+Aim to determine if the phrase "NA Aim" (used to describe bad aim) is accurate.
 
 ## Files
 - vlr.xlsx: Exel file containing raw data, histograms, and t-test.
